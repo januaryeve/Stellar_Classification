@@ -30,6 +30,8 @@ Follow along by loading the data [here](https://www.kaggle.com/datasets/fedesori
 ## Relevent Packages and Syntax
 * Python 3.11.2 was used for this project
   -Python can be downloaded [here](https://www.python.org/downloads/)
+* Jupyter Notebooks
+  -Code was written in Jupyter Notebooks, instructions on installing Jupyter Notebooks are [here](https://jupyter.org/install)
 * Pandas
   -Instructions on installing Pandas are [here](https://pandas.pydata.org/docs/getting_started/install.html)
 * Matplotlib
