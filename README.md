@@ -34,6 +34,10 @@ Here is how I incorporated the requirements for this project:
 * Part 1: "Read data in"
   - Used the Pandas read_functions to read in my csv file from the domain [here](https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17?resource=download)
 * Part 2: "Manipulate and clean your data"
-  - Used Pandas functions to remove unwanted columns and rows from the data set
+  - Used Pandas drop functions to remove unwanted columns and rows from the data set
 * Part 3: "Analyze your data"
-  - 
+  - Used     different Python and Pandas functions to explore the data
+      - len() to determine if the set was complete
+      - created a dictionary of the data key to call descriptions when needed
+      - list() to determine if all three stellar objects were represented in original data set
+      - defined a function f('class','redshift','alpha') 
