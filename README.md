@@ -27,10 +27,15 @@ Follow along by loading the data [here](https://www.kaggle.com/datasets/fedesori
 * MJD = Modified Julian Date, used to indicate when a given piece of SDSS data was taken
 * fiber_ID = fiber ID that identifies the fiber that pointed the light at the focal plane in each observation
 
-## Requirements
+## Relevent Packages and Syntax
 * Python 3.11.2 was used for this project
+  -Python can be downloaded [here](https://www.python.org/downloads/)
 * Pandas
+  -Instructions on installing Pandas are [here](https://pandas.pydata.org/docs/getting_started/install.html)
 * Matplotlib
+  -Instructions on installing Matplotlib are [here](https://matplotlib.org/stable/users/installing/index.html)
+
+There is also a requirements.txt file added to this repo for ease of installation.
 
 
 ## Project Fullfillments for Code Louisville Data Analytics I
