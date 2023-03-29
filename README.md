@@ -1,7 +1,7 @@
 # Stellar_Classification
 An exploration of a set 100,000 observations of stars, galaxies, and quasars done by the Sloan Digital Sky Survey
 
-This project analyzes some distinct characteristics of three types of stellar objects (galaxies, stars, and quasars). Particular attention is paid to location, redshift, and ultraviolet radiation, with the bulk of the results focusing on the relationship between redshift and ultraviolet radiation for observed quasars.
+This project analyzes some distinct characteristics of three types of stellar objects (galaxies, stars, and quasars). Particular attention is paid to location, redshift, and ultraviolet radiation, with the bulk of the results focusing on the relationship between redshift and ultraviolet radiation for observed quasars. This project exists both as a passion project highlighting my love of astronomy, and as a capstone completing the Data Analytics I class with [Code Louisville](https://codelouisville.org/)
 
 Below is a key of each characteristic in the data set to be used for reference. A handy dictionary is also included in the Jupyter Notebook and any definition can be called using data_key['desired_characteristic'] 
 
@@ -26,6 +26,11 @@ Follow along by loading the data [here](https://www.kaggle.com/datasets/fedesori
 * plate = plate ID, identifies each plate in SDSS
 * MJD = Modified Julian Date, used to indicate when a given piece of SDSS data was taken
 * fiber_ID = fiber ID that identifies the fiber that pointed the light at the focal plane in each observation
+
+## Requirements
+*Python 3.11.2 was used for this project
+*Pandas
+*Matplotlib
 
 
 ## Project Fullfillments for Code Louisville Data Analytics I
