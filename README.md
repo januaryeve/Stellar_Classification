@@ -36,8 +36,9 @@ Here is how I incorporated the requirements for this project:
 * Part 2: "Manipulate and clean your data"
   - Used Pandas drop functions to remove unwanted columns and rows from the data set
 * Part 3: "Analyze your data"
-  - Used     different Python and Pandas functions to explore the data
-      - len() to determine if the set was complete
-      - created a dictionary of the data key to call descriptions when needed
-      - list() to determine if all three stellar objects were represented in original data set
-      - defined a function f('class','redshift','alpha') 
+  - Used a mix of "Easiest, Easy, and Intermediate" different Python and Pandas functions to explore the data
+      1. len() to determine if the set was complete
+      2. created a dictionary of the data key to call descriptions when needed
+      3. list() to determine if all three stellar objects were represented in original data set
+      4. defined a function f('class','redshift','alpha') 
+      5. 
