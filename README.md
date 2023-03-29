@@ -5,6 +5,8 @@ This project analyzes some distinct characteristics of three types of stellar ob
 
 Below is a key of each characteristic in the data set to be used for reference. A handy dictionary is also included in the Jupyter Notebook and any definition can be called using data_key['desired_characteristic'] 
 
+Follow along with the data [here](https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17?resource=download)
+
 # Key 
 * obj_ID = Object Identifier, the unique value that identifies the object in the image catalog used by the CAS
 * alpha = Right Ascension angle (at J2000 epoch)
