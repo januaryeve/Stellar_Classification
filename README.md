@@ -2,6 +2,9 @@
 An exploration of a set 100,000 observations of stars, galaxies, and quasars done by the Sloan Digital Sky Survey
 
 This project analyzes some distinct characteristics of three types of stellar objects (galaxies, stars, and quasars). Particular attention is paid to location, redshift, and ultraviolet radiation, with the bulk of the results focusing on the relationship between redshift and ultraviolet radiation for observed quasars.
+
+Below is a key of each characteristic in the data set to be used for reference. A handy dictionary is also included in the Jupyter Notebook and any definition can be called using data_key['desired_characteristic'] 
+
 # Key 
 * obj_ID = Object Identifier, the unique value that identifies the object in the image catalog used by the CAS
 * alpha = Right Ascension angle (at J2000 epoch)
