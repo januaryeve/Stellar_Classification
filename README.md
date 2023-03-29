@@ -47,4 +47,4 @@ Here is how I incorporated the requirements for this project:
 * Part 5: "Interpret your data and graphical output"
   - Markdown cells included in the Jupyter notebook code explaining the significance of the plots chosen
       
-  - 
+ 
