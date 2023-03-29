@@ -33,7 +33,7 @@ Here is how I incorporated the requirements for this project:
 
 * Part 1: "Read data in"
   - Used the Pandas read_functions to read in my csv file from the domain [here](https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17?resource=download)
- * Part 2: "Manipulate and clean your data"
+* Part 2: "Manipulate and clean your data"
   - Used Pandas functions to remove unwanted columns and rows from the data set
- * Part 3: "Analyze your data"
+* Part 3: "Analyze your data"
   - 
