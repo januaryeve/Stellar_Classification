@@ -26,4 +26,4 @@ An exploration of a set 100,000 observations of stars, galaxies, and quasars don
 Here is how I incorporated the requirements for this project:
 
 * Part 1: "Read data in"
-  - 
+  - Used the Pandas read_functions to read in my csv file from the domain 
