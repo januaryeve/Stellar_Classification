@@ -28,9 +28,9 @@ Follow along by loading the data [here](https://www.kaggle.com/datasets/fedesori
 * fiber_ID = fiber ID that identifies the fiber that pointed the light at the focal plane in each observation
 
 ## Requirements
-*Python 3.11.2 was used for this project
-*Pandas
-*Matplotlib
+* Python 3.11.2 was used for this project
+* Pandas
+* Matplotlib
 
 
 ## Project Fullfillments for Code Louisville Data Analytics I
