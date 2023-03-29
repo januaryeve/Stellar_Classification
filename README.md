@@ -32,13 +32,19 @@ Follow along by loading the data [here](https://www.kaggle.com/datasets/fedesori
 Here is how I incorporated the requirements for this project:
 
 * Part 1: "Read data in"
-  - Used the Pandas read_functions to read in my csv file from the domain [here](https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17?resource=download)
+  - Pandas read_functions to read in csv file from the domain [here](https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17?resource=download)
 * Part 2: "Manipulate and clean your data"
-  - Used Pandas drop functions to remove unwanted columns and rows from the data set
+  - Pandas drop functions to remove unwanted columns and rows from data set
 * Part 3: "Analyze your data"
   - Used a mix of "Easiest, Easy, and Intermediate" different Python and Pandas functions to explore the data
       1. len() to determine if the set was complete
-      2. created a dictionary of the data key to call descriptions when needed
-      3. list() to determine if all three stellar objects were represented in original data set
+      2. created a dictionary called data_key to call descriptions when needed
+      3. list() to determine what stellar objects were represented in original data set
       4. defined a function f('class','redshift','alpha') 
-      5. 
+      5. df.mean() to determine the mean values of distinct characteristics
+* Part 4: "Visualize your data"
+  - Matplotlib to plot several trends including redshift verses ultraviolet radiation of observed quasars 
+* Part 5: "Interpret your data and graphical output"
+  - Markdown cells included in the Jupyter notebook code explaining the significance of the plots chosen
+      
+  - 
